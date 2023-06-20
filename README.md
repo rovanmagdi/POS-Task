@@ -61,7 +61,7 @@ Enter this command to run the react app.
 
 ## Empty Favorite
 
-![Screenshot (148)](https://github.com/rovanmagdi/POS-Task/assets/64366119/71854c47-09e2-4c2d-b7d2-22762277c99b)
+![Screenshot (147)](https://github.com/rovanmagdi/POS-Task/assets/64366119/6801cab2-8eb9-4490-9eff-5dd1a1e5c3ef)
 
 ## Pagination
 ![Screenshot (150)](https://github.com/rovanmagdi/POS-Task/assets/64366119/545a6459-58a3-4903-ab6b-0974f00f3600)
