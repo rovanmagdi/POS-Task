@@ -55,7 +55,7 @@ Enter this command to run the react app.
 ![Screenshot (145)](https://github.com/rovanmagdi/POS-Task/assets/64366119/c120578b-b9af-4773-b2e2-7eb214b9ed6d)
 
 
-##Favorite
+## Favorite
 ![Screenshot (146)](https://github.com/rovanmagdi/POS-Task/assets/64366119/a651e6c6-79b7-42ea-b2f6-9a0f0c332d97)
 
 
