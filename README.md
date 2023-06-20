@@ -44,30 +44,36 @@ Enter this command to run the react app.
 
 
 ## Home
-![Screenshot (144)](https://github.com/rovanmagdi/POS-Task/assets/64366119/7f21360d-4cab-4f18-aa2e-ff9fa9c3bb9b)
+![Screenshot (151)](https://github.com/rovanmagdi/POS-Task/assets/64366119/baddaf8f-3d4a-410c-bf52-f82ea5888234)
 
 
 ## Products
-![Screenshot (145)](https://github.com/rovanmagdi/POS-Task/assets/64366119/973a23a4-e773-4cef-a58c-b2c3510637a5)
+![Screenshot (144)](https://github.com/rovanmagdi/POS-Task/assets/64366119/7c685b56-20a6-482a-afab-40b8d1aeb9c9)
+
 
 
 ## Details
-![Screenshot (146)](https://github.com/rovanmagdi/POS-Task/assets/64366119/ac55a640-ff7c-4492-ac20-edf7cb016b29)
+![Screenshot (145)](https://github.com/rovanmagdi/POS-Task/assets/64366119/36e84dab-6f34-4406-a6ea-aca9b9eca9ac)
+
 
 
 ## Favorite
-![Screenshot (147)](https://github.com/rovanmagdi/POS-Task/assets/64366119/6801cab2-8eb9-4490-9eff-5dd1a1e5c3ef)
+![Screenshot (146)](https://github.com/rovanmagdi/POS-Task/assets/64366119/b655a8a2-8b80-4ec0-8f30-81aa21398aea)
+
 
 
 ## Empty Favorite
 
-![Screenshot (147)](https://github.com/rovanmagdi/POS-Task/assets/64366119/6801cab2-8eb9-4490-9eff-5dd1a1e5c3ef)
+![Screenshot (147)](https://github.com/rovanmagdi/POS-Task/assets/64366119/c61b208f-b8e0-45e6-8163-550bc534864f)
+
 
 ## Pagination
-![Screenshot (150)](https://github.com/rovanmagdi/POS-Task/assets/64366119/545a6459-58a3-4903-ab6b-0974f00f3600)
+![Screenshot (150)](https://github.com/rovanmagdi/POS-Task/assets/64366119/d8aa9e7e-598a-49a5-8956-fe334d94f88b)
+
 
 ## Not Found
-![Screenshot (149)](https://github.com/rovanmagdi/POS-Task/assets/64366119/25cc8ade-8d4e-4d02-9811-610d94feb855)
+![Screenshot (149)](https://github.com/rovanmagdi/POS-Task/assets/64366119/d68eef4d-9562-4f98-881e-df11de197fde)
+
 
 
 ## Contact us
